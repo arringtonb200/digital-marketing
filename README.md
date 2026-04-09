@@ -2,7 +2,7 @@
 
 **`Digital Craftlady`**
 
-I'm digital marketting specialist, Linux distro hopper, Java apologist, and content creator at [youtube] (68k+ subscribers).
+I'm digital marketting specialist, Linux distro hopper, Java apologist, and content creator.
 
    <p align="left">
       <a href=" ">
