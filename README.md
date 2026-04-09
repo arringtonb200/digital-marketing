@@ -1,8 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Bertha Arrington
 
-**`Digital Craftsman`**
+**`Digital Craftlady`**
 
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (680k+ subscribers).
+I'm digital marketting specialist, Linux distro hopper, Java apologist, and content creator at [youtube] (68k+ subscribers).
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
