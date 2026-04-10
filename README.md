@@ -2,7 +2,7 @@
 
 **`Digital Craftlady`**
 
-I'm digital marketting specialist, Linux distro hopper, Java apologist, and content creator.
+I'm digital marketting specialist and content creator.
 
    <p align="left">
       <a href=" ">
